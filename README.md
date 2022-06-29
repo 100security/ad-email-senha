@@ -8,4 +8,4 @@ O ad-email-senha.ps1 é um script em PowerShell que permite que você notifique 
 ![](https://www.100security.com.br/images/ad-pass-expires-05.png)
 
 # Artigo
-https://www.100security.com.br/ad-pass-expires
+www.100security.com.br/ad-pass-expires
